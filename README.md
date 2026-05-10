@@ -4,7 +4,9 @@ A simple menu-driven Temperature Converter program written in C language.
 This project allows users to convert temperatures between:
 
 Celsius → Fahrenheit / Kelvin
+
 Fahrenheit → Celsius / Kelvin
+
 Kelvin → Celsius / Fahrenheit
 
 The program can convert multiple temperature values at once (up to 10 values).
