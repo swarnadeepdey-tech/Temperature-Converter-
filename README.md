@@ -12,7 +12,11 @@ Kelvin → Celsius / Fahrenheit
 
 The program can convert multiple temperature values at once (up to 10 values).
 
+
+
 🔗 GitHub Repository: https://github.com/swarnadeepdey-tech/Temperature-Converter-
+
+
 
 📌 Features
 
@@ -32,10 +36,14 @@ Uses functions for each conversion type
 
 Easy to understand beginner-friendly C project
 
+
+
 🛠️ Technologies Used
 Language: C
 
 Compiler: GCC / Turbo C / CodeBlocks / VS Code
+
+
 
 📂 Project Structure
 Temperature-Converter-
@@ -43,6 +51,8 @@ Temperature-Converter-
 │── README.md
 
 │── temperature_converter.c
+
+
 
 ▶️ How to Run
 
@@ -64,6 +74,8 @@ gcc temperature_converter.c -o converter
 Step 4: Run the Program
 
 ./converter
+
+
 
 📸 Example Output
 
@@ -99,6 +111,8 @@ Choose the number:- 1
 
 100.00 C = 212.00 F
 
+
+
 📖 Temperature Conversion Formulas
 
 Celsius to Fahrenheit
@@ -121,6 +135,8 @@ Kelvin to Fahrenheit
 F=((5/9)*(K−273.15))+32
 
 
+
+
 🎯 Learning Concepts Used
 
 Functions in C
@@ -136,6 +152,8 @@ User Input Handling
 Conditional Statements
 
 
+
+
 🚀 Future Improvements
 
 Add more temperature scales
@@ -145,6 +163,8 @@ Improve input validation
 Add graphical user interface (GUI)
 
 Store conversion history
+
+
 
 
 👨‍💻 Author
